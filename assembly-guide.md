@@ -6,12 +6,12 @@ This guide provides detailed, step-by-step instructions for fabricating and asse
 
 ### **Table of Contents**
 
-1. [Before You Begin](#before-you-begin)  
-2. [Cart Assembly](#cart-assembly)  
-3. [3D Print Fabrication](#3d-print-fabrication)
-4. [Electronics Assembly](#electronics-assembly)  
-5. [Raspberry Pi Pico Programming](#raspberry-pi-pico-programming)
-6. [Mechanical Assembly](#mechanical-assembly)
+1. **[Before You Begin](#before-you-begin)**  
+2. **[Cart Assembly](#cart-assembly)**  
+3. **[3D Print Fabrication](#3d-print-fabrication)**
+4. **[Electronics Assembly](#electronics-assembly)**  
+5. **[Raspberry Pi Pico Programming](#raspberry-pi-pico-programming)**
+6. **[Mechanical Assembly](#mechanical-assembly)**
 
 ## Before You Begin
 
@@ -21,9 +21,8 @@ This section outlines all the tools and parts you'll need to gather before start
 
 A complete list of all project components and their purchase links can be found using the links below.
 
-[bill-of-materials.md](/bill-of-materials.md)
-
-[bill-of-materials.xlsx](/bill-of-materials.xlsx)
+* **[bill-of-materials.md](/bill-of-materials.md)**
+* **[bill-of-materials.xlsx](/bill-of-materials.xlsx)**
 
 ### Tool List
 
@@ -68,6 +67,7 @@ Using a saw or PVC pipe cutter, cut the 3/4" PVC pipe into the following lengths
 Gather the PVC Tee and 90° Elbow fittings and the cut pipe sections. Assemble the four sub-frames as shown in the diagram below.
 
 ![Main Cart Frame Design](/images/main-cart-frame-design.png)
+*Design mockup created using [Crafty Amigo](https://www.craftyamigo.com/)*
 
 | Part Description | Central Frame | Left Frame | Right Frame | Back Frame | Total |
 | :---- | ----- | ----- | ----- | ----- | ----- |
@@ -275,6 +275,7 @@ This step covers building the external launch button.
 
 ![Wiring L298N](/images/wiring-l298n.png)
 ![Launcher Circuit](/images/launcher-circuit.png)
+*Circuit image created using [Cirkit Designer](https://www.cirkitstudio.com/)*
 
 ***Note on Wire Lengths:** For the best fit, orient the L298N/PCB board in its final position—mounted in front of the motor with the heat sink facing right. The approximate lengths provided in the following steps are based on this layout.*
 
