@@ -19,7 +19,7 @@ Check out the videos below to see the launcher in action. They also can be downl
 
 ## Getting Started & Full Documentation
 
-All the files and instructions needed to build your own launcher can be found at the links below.
+All the files and instructions needed to build your own launcher can be found using the links below.
 
 ### Bill of Materials (BOM)
 
