@@ -2,7 +2,7 @@
 
 ![The completed wheelchair-mounted soccer ball launcher](/images/wheelchair-soccer-launcher-side.png)
 
-This project is an open-source, 3D-printable soccer ball launcher designed to be mounted on a wheelchair. It was developed by students from the **[Waukee APEX Program](https://apex.waukeeschools.org/)** to support the amazing work of [**Can Play**](https://can-play.org/), a nonprofit organization dedicated to providing adaptive sports and recreation opportunities for children and adults with disabilities.
+This project is an open-source soccer ball launcher designed to be mounted on a wheelchair. It was developed by students from the **[Waukee APEX Program](https://apex.waukeeschools.org/)** to support the amazing work of [**Can Play**](https://can-play.org/), a nonprofit organization dedicated to providing adaptive sports and recreation opportunities for children and adults with disabilities.
 
 The goal of this project is to provide a low-cost, accessible, and replicable design that allows more individuals to participate in wheelchair soccer.
 
