@@ -8,12 +8,14 @@ The goal of this project is to provide a low-cost, accessible, and replicable de
 
 -----
 
-## Videos
+## Images & Videos
 
-Check out the videos below to see the launcher in action. They also can be downloaded in the [`videos`](/videos/) directory
+![The completed wheelchair-mounted soccer ball launcher attached to a wheelchair](/images/launcher-attached-to-wheelchair.png)
 
-  * **[Launching a Ball](https://drive.google.com/file/d/1Zj8VsEUQvgTQKYYCXFO2hsKvwk39IFne/view?usp=sharing)**
-  * **[Launcher Controls](https://drive.google.com/file/d/1pz40n8Ktj4fxog2c7bPQqHmXNsAXVMiB/view?usp=sharing)**
+All assembly images and demo videos are available below.
+
+ * **[images](/images/)**
+ * **[videos](/videos/)**
 
 -----
 
