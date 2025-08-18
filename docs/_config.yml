@@ -28,7 +28,7 @@ github:
   repository_url: https://github.com/maxfah/wheelchair-soccer-launcher
 
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
