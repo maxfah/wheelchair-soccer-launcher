@@ -21,8 +21,8 @@
 title: Wheelchair Soccer Launcher
 description: >- # this means to ignore newlines until "baseurl:"
   A wheelchair-mounted soccer ball launcher designed for the nonprofit Can Play
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/wheelchair-soccer-launcher" # the subpath of your site, e.g. /blog
+url: "https://maxfah.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  maxfa
 github:
   repository_url: https://github.com/maxfah/wheelchair-soccer-launcher
